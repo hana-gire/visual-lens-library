@@ -24,6 +24,7 @@ subjects and scenes.
 | Nostalgic Summer Lens | ノスタルジックサマー | Aged waterside snapshot, blue-green color-negative cast, glare, grain, and imperfect motion | [Open](lenses/nostalgic-summer-lens.md) |
 | Reverie Lens | 幻想 | Deep low-saturation night, asymmetrical halation, bold backlit shadows, accidental celestial alignment | [Open](lenses/reverie-lens.md) |
 | Soft Yellow Lens | ソフトイエロー | Milky high-key light, restrained butter yellow and new-leaf green, selective detail, delicate whites | [Open](lenses/soft-yellow-lens.md) |
+| Summer Depths Lens | 夏底 | Deep bluish-green shade, broad milky flare, coarse vegetation, organic 35mm grain | [Open](lenses/summer-depths-lens.md) |
 
 ## How to use a Lens
 
@@ -58,7 +59,8 @@ visual-lens-library/
     ├── frozen-lens.md
     ├── nostalgic-summer-lens.md
     ├── reverie-lens.md
-    └── soft-yellow-lens.md
+    ├── soft-yellow-lens.md
+    └── summer-depths-lens.md
 ```
 
 Each Lens file contains:
