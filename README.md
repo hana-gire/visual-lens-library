@@ -26,6 +26,8 @@ subjects and scenes.
 | Soft Yellow Lens | ソフトイエロー | Milky high-key light, restrained butter yellow and new-leaf green, selective detail, delicate whites | [Open](lenses/soft-yellow-lens.md) |
 | Summer Depths Lens | 夏底 | Deep bluish-green shade, broad milky flare, coarse vegetation, organic 35mm grain | [Open](lenses/summer-depths-lens.md) |
 | Secret Hours Lens | 秘密の時間 | Faded peach-pink light, dense old-film grain, uniformly soft focus, intimate encounters in empty public spaces | [Open](lenses/secret-hours-lens.md) |
+| Toy Lens | トイ | Life-size toy-like rides, warm white and cyan blue, restrained candy accents, photoreal animals, quiet visual absurdity | [Open](lenses/toy-lens.md) |
+| Glass Monochrome Lens | グラスモノクローム | Lens-side frosted-glass diffusion, strict monochrome, deep black vignette, one concentrated pearl-white highlight | [Open](lenses/glass-monochrome-lens.md) |
 
 ## How to use a Lens
 
@@ -62,7 +64,9 @@ visual-lens-library/
     ├── reverie-lens.md
     ├── soft-yellow-lens.md
     ├── summer-depths-lens.md
-    └── secret-hours-lens.md
+    ├── secret-hours-lens.md
+    ├── toy-lens.md
+    └── glass-monochrome-lens.md
 ```
 
 Each Lens file contains:
