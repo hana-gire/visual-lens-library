@@ -79,9 +79,12 @@ visual-lens-library/
 │   │   ├── english-golden-retriever-red-flying-disc.jpeg
 │   │   ├── white-dog-red-shaved-ice.jpeg
 │   │   └── white-shepherd-strawberry.jpeg
-│   └── reverie-lens/
-│       ├── golden-retriever-moon-jump.jpeg
-│       └── golden-retriever-starlight.jpeg
+│   ├── reverie-lens/
+│   │   ├── golden-retriever-moon-jump.jpeg
+│   │   └── golden-retriever-starlight.jpeg
+│   └── secret-hours-lens/
+│       ├── golden-retriever-deer-sculpture.jpeg
+│       └── golden-retriever-swan-boat.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md

@@ -16,6 +16,12 @@ A warm, faded peach-pink old-film style built around dense emulsion grain,
 uniformly soft focus, quiet encounters with unattended public objects, and an
 intimate hint of the inexplicable.
 
+## Example images / 作例
+
+| Golden Retriever greeting a white deer sculpture / 白い鹿の彫刻と鼻を合わせるゴールデンレトリバー | Golden Retriever peering into a swan boat / 白鳥ボートを覗き込むゴールデンレトリバー |
+| --- | --- |
+| ![A Golden Retriever touching noses with a large white deer sculpture among pink cosmos flowers](../examples/secret-hours-lens/golden-retriever-deer-sculpture.jpeg) | ![A Golden Retriever peering into an unattended white swan boat beside a lake](../examples/secret-hours-lens/golden-retriever-swan-boat.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
