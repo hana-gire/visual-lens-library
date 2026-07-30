@@ -16,6 +16,18 @@ A pale, high-key fine-art style that renders white with particular beauty while
 allowing every other color and texture to soften into transparent butter-yellow
 and new-leaf-green light.
 
+## Example images / 作例
+
+| Great egret among yellow flowers / 黄色い花の中のダイサギ | White wagtail among blue flowers / 青い花の中のハクセキレイ | White seashell on pale sand / 淡い砂の上の白い貝殻 |
+| --- | --- | --- |
+| ![A white great egret standing among pale yellow flowers beneath a milky white sky](../examples/soft-yellow-lens/great-egret-yellow-flowers.jpeg) | ![A white wagtail walking among tiny blue flowers in pale yellow-green light](../examples/soft-yellow-lens/white-wagtail-blue-flowers.jpeg) | ![A white seashell resting on pale sand beneath milky light](../examples/soft-yellow-lens/white-seashell-sand.jpeg) |
+
+### More examples / その他の作例
+
+| Snail crossing a leaf / 葉の上を進むカタツムリ | Sleeping white rabbit / 白い寝具で眠る白いウサギ |
+| --- | --- |
+| ![A snail moving across a pale green leaf in soft yellow light](../examples/soft-yellow-lens/snail-on-leaf.jpeg) | ![A white rabbit sleeping on white bedding in warm milky light](../examples/soft-yellow-lens/sleeping-white-rabbit.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |

@@ -82,9 +82,15 @@ visual-lens-library/
 │   ├── reverie-lens/
 │   │   ├── golden-retriever-moon-jump.jpeg
 │   │   └── golden-retriever-starlight.jpeg
-│   └── secret-hours-lens/
-│       ├── golden-retriever-deer-sculpture.jpeg
-│       └── golden-retriever-swan-boat.jpeg
+│   ├── secret-hours-lens/
+│   │   ├── golden-retriever-deer-sculpture.jpeg
+│   │   └── golden-retriever-swan-boat.jpeg
+│   └── soft-yellow-lens/
+│       ├── great-egret-yellow-flowers.jpeg
+│       ├── sleeping-white-rabbit.jpeg
+│       ├── snail-on-leaf.jpeg
+│       ├── white-seashell-sand.jpeg
+│       └── white-wagtail-blue-flowers.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
