@@ -16,6 +16,12 @@ A silver-gelatin monochrome style that evokes viewing the world through
 frosted glass using lens-side optical diffusion alone, with deep black
 vignetting, one concentrated pearl-white highlight, and softly dissolving form.
 
+## Example images / 作例
+
+| Polar bear with a steaming cup / 湯気の立つカップを持つ白熊 | Borzoi in a phone booth / 電話ボックスのボルゾイ | Camel standing in the desert / 砂漠に立つラクダ |
+| --- | --- | --- |
+| ![A polar bear holding a steaming cup at a table on a rainy night](../examples/glass-monochrome-lens/polar-bear-steaming-cup.jpeg) | ![A Borzoi standing inside an open phone booth on a rainy night](../examples/glass-monochrome-lens/borzoi-phone-booth.jpeg) | ![A camel standing in a dim desert beneath a narrow highlight](../examples/glass-monochrome-lens/camel-in-desert.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |

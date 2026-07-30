@@ -66,6 +66,10 @@ visual-lens-library/
 │   │   ├── polar-bears-sleeping.jpeg
 │   │   ├── samoyed-stargazing.jpeg
 │   │   └── swan-water-splash.jpeg
+│   ├── glass-monochrome-lens/
+│   │   ├── borzoi-phone-booth.jpeg
+│   │   ├── camel-in-desert.jpeg
+│   │   └── polar-bear-steaming-cup.jpeg
 │   └── powder-snow-lens/
 │       ├── white-dog-red-shaved-ice.jpeg
 │       └── white-shepherd-strawberry.jpeg
