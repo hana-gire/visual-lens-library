@@ -22,6 +22,7 @@
 | ノスタルジックサマー | Nostalgic Summer Lens | 古い水辺のスナップ、青緑に偏ったカラーネガ、眩しさ、粒子、不完全な動き | [開く](lenses/nostalgic-summer-lens.md) |
 | 幻想 | Reverie Lens | 低彩度の深い夜、非対称なハレーション、大胆な逆光の影、天体との偶然の重なり | [開く](lenses/reverie-lens.md) |
 | ソフトイエロー | Soft Yellow Lens | 乳白色のハイキー光、控えめなバターイエローと若葉色、選択的な精細さ、美しい白 | [開く](lenses/soft-yellow-lens.md) |
+| 夏底 | Summer Depths Lens | 青みを帯びた深緑の木陰、大きな乳白色フレア、粗い植物描写、有機的な35mm粒子 | [開く](lenses/summer-depths-lens.md) |
 
 ## 使い方
 
@@ -56,7 +57,8 @@ visual-lens-library/
     ├── frozen-lens.md
     ├── nostalgic-summer-lens.md
     ├── reverie-lens.md
-    └── soft-yellow-lens.md
+    ├── soft-yellow-lens.md
+    └── summer-depths-lens.md
 ```
 
 各レンズのファイルには、次の内容を収録しています。
