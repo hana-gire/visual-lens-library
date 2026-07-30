@@ -87,12 +87,15 @@ visual-lens-library/
 │   ├── secret-hours-lens/
 │   │   ├── golden-retriever-deer-sculpture.jpeg
 │   │   └── golden-retriever-swan-boat.jpeg
-│   └── soft-yellow-lens/
-│       ├── great-egret-yellow-flowers.jpeg
-│       ├── sleeping-white-rabbit.jpeg
-│       ├── snail-on-leaf.jpeg
-│       ├── white-seashell-sand.jpeg
-│       └── white-wagtail-blue-flowers.jpeg
+│   ├── soft-yellow-lens/
+│   │   ├── great-egret-yellow-flowers.jpeg
+│   │   ├── sleeping-white-rabbit.jpeg
+│   │   ├── snail-on-leaf.jpeg
+│   │   ├── white-seashell-sand.jpeg
+│   │   └── white-wagtail-blue-flowers.jpeg
+│   └── summer-depths-lens/
+│       ├── crow-foraging-refuse.jpeg
+│       └── raccoon-looking-back-undergrowth.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md

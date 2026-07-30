@@ -16,6 +16,12 @@ A low-resolution midsummer style built around deep bluish-green shade, broad
 milky veiling flare, coarsely layered vegetation, and the feeling of discovering
 a subject at the humid bottom of the undergrowth.
 
+## Example images / 作例
+
+| Crow foraging among refuse / ごみの間で餌を探すカラス | Raccoon looking back in the undergrowth / 茂みで振り返るアライグマ |
+| --- | --- |
+| ![A black crow foraging among refuse bags on damp ground in deep blue-green shade](../examples/summer-depths-lens/crow-foraging-refuse.jpeg) | ![A raccoon looking back while moving through dense blue-green summer undergrowth](../examples/summer-depths-lens/raccoon-looking-back-undergrowth.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
