@@ -23,6 +23,7 @@
 | 幻想 | Reverie Lens | 低彩度の深い夜、非対称なハレーション、大胆な逆光の影、天体との偶然の重なり | [開く](lenses/reverie-lens.md) |
 | ソフトイエロー | Soft Yellow Lens | 乳白色のハイキー光、控えめなバターイエローと若葉色、選択的な精細さ、美しい白 | [開く](lenses/soft-yellow-lens.md) |
 | 夏底 | Summer Depths Lens | 青みを帯びた深緑の木陰、大きな乳白色フレア、粗い植物描写、有機的な35mm粒子 | [開く](lenses/summer-depths-lens.md) |
+| 秘密の時間 | Secret Hours Lens | 淡いオレンジを含む桃色の退色、高密度のフィルム粒子、画面全体の甘い焦点、無人の公共空間に残る親密な秘密 | [開く](lenses/secret-hours-lens.md) |
 
 ## 使い方
 
@@ -58,7 +59,8 @@ visual-lens-library/
     ├── nostalgic-summer-lens.md
     ├── reverie-lens.md
     ├── soft-yellow-lens.md
-    └── summer-depths-lens.md
+    ├── summer-depths-lens.md
+    └── secret-hours-lens.md
 ```
 
 各レンズのファイルには、次の内容を収録しています。
