@@ -23,6 +23,7 @@ subjects and scenes.
 | Frozen Lens | 凍レンズ | Near-monochromatic ice blue, compressed tonal depth, filament-fine fur, intimate stillness | [Open](lenses/frozen-lens.md) |
 | Nostalgic Summer Lens | ノスタルジックサマー | Aged waterside snapshot, blue-green color-negative cast, glare, grain, and imperfect motion | [Open](lenses/nostalgic-summer-lens.md) |
 | Reverie Lens | 幻想 | Deep low-saturation night, asymmetrical halation, bold backlit shadows, accidental celestial alignment | [Open](lenses/reverie-lens.md) |
+| Soft Yellow Lens | ソフトイエロー | Milky high-key light, restrained butter yellow and new-leaf green, selective detail, delicate whites | [Open](lenses/soft-yellow-lens.md) |
 
 ## How to use a Lens
 
@@ -56,7 +57,8 @@ visual-lens-library/
     ├── hazy-spring-lens.md
     ├── frozen-lens.md
     ├── nostalgic-summer-lens.md
-    └── reverie-lens.md
+    ├── reverie-lens.md
+    └── soft-yellow-lens.md
 ```
 
 Each Lens file contains:
@@ -87,4 +89,3 @@ The prompt text and documentation in this repository are licensed under the
 You may copy, redistribute, remix, transform, and build upon the material for
 any purpose, including commercial use, provided that you give appropriate
 credit, link to the license, and indicate whether changes were made.
-
