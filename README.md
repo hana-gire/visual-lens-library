@@ -28,6 +28,7 @@ subjects and scenes.
 | Secret Hours Lens | 秘密の時間 | Faded peach-pink light, dense old-film grain, uniformly soft focus, intimate encounters in empty public spaces | [Open](lenses/secret-hours-lens.md) |
 | Toy Lens | トイ | Life-size toy-like rides, warm white and cyan blue, restrained candy accents, photoreal animals, quiet visual absurdity | [Open](lenses/toy-lens.md) |
 | Glass Monochrome Lens | グラスモノクローム | Lens-side frosted-glass diffusion, strict monochrome, deep black vignette, one concentrated pearl-white highlight | [Open](lenses/glass-monochrome-lens.md) |
+| Powder Snow Lens | 粉雪 | Pale blue-white high-key tonality, dense fine grain, gentle focus, one restrained red accent | [Open](lenses/powder-snow-lens.md) |
 
 ## How to use a Lens
 
@@ -57,14 +58,17 @@ visual-lens-library/
 ├── README.ja.md
 ├── LICENSE.md
 ├── examples/
-│   └── frozen-lens/
-│       ├── arctic-wolf-stargazing.jpeg
-│       ├── borzoi-in-snow.jpeg
-│       ├── penguin-chick-sleeping.jpeg
-│       ├── polar-bear-over-shoulder.jpeg
-│       ├── polar-bear-underwater.jpeg
-│       ├── polar-bears-sleeping.jpeg
-│       └── swan-water-splash.jpeg
+│   ├── frozen-lens/
+│   │   ├── arctic-wolf-stargazing.jpeg
+│   │   ├── borzoi-in-snow.jpeg
+│   │   ├── penguin-chick-sleeping.jpeg
+│   │   ├── polar-bear-over-shoulder.jpeg
+│   │   ├── polar-bear-underwater.jpeg
+│   │   ├── polar-bears-sleeping.jpeg
+│   │   └── swan-water-splash.jpeg
+│   └── powder-snow-lens/
+│       ├── white-dog-red-shaved-ice.jpeg
+│       └── white-shepherd-strawberry.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
@@ -75,7 +79,8 @@ visual-lens-library/
     ├── summer-depths-lens.md
     ├── secret-hours-lens.md
     ├── toy-lens.md
-    └── glass-monochrome-lens.md
+    ├── glass-monochrome-lens.md
+    └── powder-snow-lens.md
 ```
 
 Each Lens file contains:
