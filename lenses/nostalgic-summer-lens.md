@@ -16,6 +16,12 @@ An aged midsummer waterside-film style: intense backlit water glare,
 blue-green color-negative drift, coarse emulsion grain, imperfect focus and
 motion, humid air, happiness, and a faint sense of distance.
 
+## Example images / 作例
+
+| Golden Retriever leaping with a flying disc / フライングディスクをくわえて跳ぶゴールデンレトリバー | Golden Retriever shaking off water / 水を振り払うゴールデンレトリバー | Golden Retriever standing in the shallows / 浅瀬に立つゴールデンレトリバー |
+| --- | --- | --- |
+| ![A wet Golden Retriever leaping through sunlit water with a flying disc in its mouth](../examples/nostalgic-summer-lens/golden-retriever-flying-disc.jpeg) | ![A close-up of a wet Golden Retriever shaking water from its coat](../examples/nostalgic-summer-lens/golden-retriever-shaking-water.jpeg) | ![A wet Golden Retriever standing in dazzling blue-green shallows](../examples/nostalgic-summer-lens/golden-retriever-shallows.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
