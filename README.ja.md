@@ -21,6 +21,7 @@
 | 凍レンズ | Frozen Lens | ほぼ単色の氷青、圧縮された階調、極細の毛、冷たく親密な静けさ | [開く](lenses/frozen-lens.md) |
 | ノスタルジックサマー | Nostalgic Summer Lens | 古い水辺のスナップ、青緑に偏ったカラーネガ、眩しさ、粒子、不完全な動き | [開く](lenses/nostalgic-summer-lens.md) |
 | 幻想 | Reverie Lens | 低彩度の深い夜、非対称なハレーション、大胆な逆光の影、天体との偶然の重なり | [開く](lenses/reverie-lens.md) |
+| ソフトイエロー | Soft Yellow Lens | 乳白色のハイキー光、控えめなバターイエローと若葉色、選択的な精細さ、美しい白 | [開く](lenses/soft-yellow-lens.md) |
 
 ## 使い方
 
@@ -54,7 +55,8 @@ visual-lens-library/
     ├── hazy-spring-lens.md
     ├── frozen-lens.md
     ├── nostalgic-summer-lens.md
-    └── reverie-lens.md
+    ├── reverie-lens.md
+    └── soft-yellow-lens.md
 ```
 
 各レンズのファイルには、次の内容を収録しています。
@@ -83,4 +85,3 @@ Visual Lens Library（CC BY 4.0）をもとに改変。
 
 適切なクレジットを表示し、ライセンスへのリンクと改変の有無を示すことを
 条件に、コピー、再配布、改変、翻案、商用利用が可能です。
-
