@@ -17,6 +17,20 @@ compressed but layered shadows, filament-fine fur, restrained wet highlights,
 and an intimate camera distance. The name describes the visual tone and does
 not require literal ice or frost.
 
+## Example images / 作例
+
+| Borzoi in snowfall / 雪の中のボルゾイ | Swan spreading its wings / 翼を広げる白鳥 | Sleeping polar bears / 眠る白熊 |
+| --- | --- | --- |
+| ![A white Borzoi standing in pale blue snowfall](../examples/frozen-lens/borzoi-in-snow.jpeg) | ![A white swan spreading its wings amid water spray](../examples/frozen-lens/swan-water-splash.jpeg) | ![Two polar bears sleeping with their faces together](../examples/frozen-lens/polar-bears-sleeping.jpeg) |
+
+### More examples / その他の作例
+
+| Polar bear underwater / 水中の白熊 | Arctic wolf stargazing / 星空を見上げるホッキョクオオカミ |
+| --- | --- |
+| ![A polar bear approaching the camera underwater](../examples/frozen-lens/polar-bear-underwater.jpeg) | ![An Arctic wolf sitting beneath a snowy night sky](../examples/frozen-lens/arctic-wolf-stargazing.jpeg) |
+| Polar bear looking back / 振り返る白熊 | Sleeping penguin chick / 眠るペンギンの赤ちゃん |
+| ![A polar bear looking back over its shoulder](../examples/frozen-lens/polar-bear-over-shoulder.jpeg) | ![A penguin chick sleeping on pale ice](../examples/frozen-lens/penguin-chick-sleeping.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
@@ -104,4 +118,3 @@ Avoid:
 
 Licensed under [CC BY 4.0](../LICENSE.md). Copying, adaptation, and commercial
 use are permitted with attribution.
-

@@ -54,6 +54,15 @@ visual-lens-library/
 ├── README.md
 ├── README.ja.md
 ├── LICENSE.md
+├── examples/
+│   └── frozen-lens/
+│       ├── arctic-wolf-stargazing.jpeg
+│       ├── borzoi-in-snow.jpeg
+│       ├── penguin-chick-sleeping.jpeg
+│       ├── polar-bear-over-shoulder.jpeg
+│       ├── polar-bear-underwater.jpeg
+│       ├── polar-bears-sleeping.jpeg
+│       └── swan-water-splash.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
@@ -72,6 +81,7 @@ visual-lens-library/
 - 固定メタデータと差し替え可能な入力項目
 - 完全な英語版プロンプト
 - 対応する日本語原文
+- 作例がある場合は、その視覚ギャラリー
 - 共通のライセンス表記
 
 ## クレジット表記

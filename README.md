@@ -56,6 +56,15 @@ visual-lens-library/
 ├── README.md
 ├── README.ja.md
 ├── LICENSE.md
+├── examples/
+│   └── frozen-lens/
+│       ├── arctic-wolf-stargazing.jpeg
+│       ├── borzoi-in-snow.jpeg
+│       ├── penguin-chick-sleeping.jpeg
+│       ├── polar-bear-over-shoulder.jpeg
+│       ├── polar-bear-underwater.jpeg
+│       ├── polar-bears-sleeping.jpeg
+│       └── swan-water-splash.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
@@ -74,6 +83,7 @@ Each Lens file contains:
 - stable metadata and interchangeable input fields;
 - a complete English prompt;
 - the corresponding Japanese source prompt;
+- where provided, a gallery of visual examples;
 - the same permissive licensing notice.
 
 ## Attribution
