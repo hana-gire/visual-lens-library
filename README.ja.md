@@ -57,12 +57,12 @@ visual-lens-library/
 ├── LICENSE.md
 ├── examples/
 │   ├── frozen-lens/
-│   │   ├── arctic-wolf-stargazing.jpeg
 │   │   ├── borzoi-in-snow.jpeg
 │   │   ├── penguin-chick-sleeping.jpeg
 │   │   ├── polar-bear-over-shoulder.jpeg
 │   │   ├── polar-bear-underwater.jpeg
 │   │   ├── polar-bears-sleeping.jpeg
+│   │   ├── samoyed-stargazing.jpeg
 │   │   └── swan-water-splash.jpeg
 │   └── powder-snow-lens/
 │       ├── white-dog-red-shaved-ice.jpeg

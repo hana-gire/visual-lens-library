@@ -25,9 +25,9 @@ not require literal ice or frost.
 
 ### More examples / その他の作例
 
-| Polar bear underwater / 水中の白熊 | Arctic wolf stargazing / 星空を見上げるホッキョクオオカミ |
+| Polar bear underwater / 水中の白熊 | Samoyed stargazing / 星空を見上げるサモエド |
 | --- | --- |
-| ![A polar bear approaching the camera underwater](../examples/frozen-lens/polar-bear-underwater.jpeg) | ![An Arctic wolf sitting beneath a snowy night sky](../examples/frozen-lens/arctic-wolf-stargazing.jpeg) |
+| ![A polar bear approaching the camera underwater](../examples/frozen-lens/polar-bear-underwater.jpeg) | ![A Samoyed sitting beneath a snowy night sky](../examples/frozen-lens/samoyed-stargazing.jpeg) |
 | Polar bear looking back / 振り返る白熊 | Sleeping penguin chick / 眠るペンギンの赤ちゃん |
 | ![A polar bear looking back over its shoulder](../examples/frozen-lens/polar-bear-over-shoulder.jpeg) | ![A penguin chick sleeping on pale ice](../examples/frozen-lens/penguin-chick-sleeping.jpeg) |
 
