@@ -23,6 +23,12 @@ require literal snow, ice, frost, or white particles.
 | --- | --- |
 | ![A white dog looking at a bowl of red shaved ice](../examples/powder-snow-lens/white-dog-red-shaved-ice.jpeg) | ![A white shepherd reaching toward a strawberry held in a hand](../examples/powder-snow-lens/white-shepherd-strawberry.jpeg) |
 
+### More examples / その他の作例
+
+| Sleeping English Golden Retriever with a basketball / 赤いバスケットボールのそばで眠るイングリッシュゴールデンレトリバー | English Golden Retriever catching a red flying disc / 赤いフライングディスクをキャッチするイングリッシュゴールデンレトリバー |
+| --- | --- |
+| ![An English Golden Retriever sleeping beside a red basketball](../examples/powder-snow-lens/english-golden-retriever-basketball.jpeg) | ![An English Golden Retriever leaping to catch a red flying disc in a snowy field](../examples/powder-snow-lens/english-golden-retriever-red-flying-disc.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |

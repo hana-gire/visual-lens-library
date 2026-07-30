@@ -71,6 +71,8 @@ visual-lens-library/
 │   │   ├── camel-in-desert.jpeg
 │   │   └── polar-bear-steaming-cup.jpeg
 │   └── powder-snow-lens/
+│       ├── english-golden-retriever-basketball.jpeg
+│       ├── english-golden-retriever-red-flying-disc.jpeg
 │       ├── white-dog-red-shaved-ice.jpeg
 │       └── white-shepherd-strawberry.jpeg
 └── lenses/
