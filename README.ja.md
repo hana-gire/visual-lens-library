@@ -68,6 +68,8 @@ visual-lens-library/
 │   │   ├── borzoi-phone-booth.jpeg
 │   │   ├── camel-in-desert.jpeg
 │   │   └── polar-bear-steaming-cup.jpeg
+│   ├── hazy-spring-lens/
+│   │   └── golden-retriever-blossom.jpeg
 │   └── powder-snow-lens/
 │       ├── english-golden-retriever-basketball.jpeg
 │       ├── english-golden-retriever-red-flying-disc.jpeg

@@ -16,6 +16,12 @@ A high-key spring style built around fragile green-white light, extreme
 background blur, a deliberately narrow focal plane, and one tiny translucent
 focus target.
 
+## Example images / 作例
+
+| Golden Retriever catching a blossom on its tongue / 舌で花を受け止めるゴールデンレトリバー |
+| --- |
+| ![A pale Golden Retriever catching a small pink blossom on its tongue](../examples/hazy-spring-lens/golden-retriever-blossom.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
