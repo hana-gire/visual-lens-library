@@ -76,11 +76,14 @@ visual-lens-library/
 │   │   ├── golden-retriever-flying-disc.jpeg
 │   │   ├── golden-retriever-shaking-water.jpeg
 │   │   └── golden-retriever-shallows.jpeg
-│   └── powder-snow-lens/
-│       ├── english-golden-retriever-basketball.jpeg
-│       ├── english-golden-retriever-red-flying-disc.jpeg
-│       ├── white-dog-red-shaved-ice.jpeg
-│       └── white-shepherd-strawberry.jpeg
+│   ├── powder-snow-lens/
+│   │   ├── english-golden-retriever-basketball.jpeg
+│   │   ├── english-golden-retriever-red-flying-disc.jpeg
+│   │   ├── white-dog-red-shaved-ice.jpeg
+│   │   └── white-shepherd-strawberry.jpeg
+│   └── reverie-lens/
+│       ├── golden-retriever-moon-jump.jpeg
+│       └── golden-retriever-starlight.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md

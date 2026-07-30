@@ -17,6 +17,12 @@ blue-green darkness, deep backlit shadows, film imperfections, stars, and
 chance celestial alignments create a one-time photographic reverie without
 becoming overt fantasy.
 
+## Example images / 作例
+
+| Golden Retriever beneath the stars / 星空の下に立つゴールデンレトリバー | Golden Retriever leaping toward the moon / 月へ向かって跳ぶゴールデンレトリバー |
+| --- | --- |
+| ![A pale Golden Retriever standing beneath a starry sky amid diffused purple-green light](../examples/reverie-lens/golden-retriever-starlight.jpeg) | ![A pale Golden Retriever leaping on a night road with its nose aligned against the full moon](../examples/reverie-lens/golden-retriever-moon-jump.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
