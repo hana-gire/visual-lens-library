@@ -16,6 +16,12 @@ A bright, deserted-amusement-park style built around life-size toy-like rides,
 warm white structures, a cyan-blue vignette, restrained candy-color accents,
 photorealistic animals, and quiet visual absurdity.
 
+## Example images / 作例
+
+| Toy-like carousel horse / 玩具めいたメリーゴーランドの白馬 | Polar bear riding a Ferris wheel / 観覧車に乗る白熊 |
+| --- | --- |
+| ![A pastel white carousel horse extending from a toy-like merry-go-round under a vivid blue sky](../examples/toy-lens/carousel-horse.jpeg) | ![A polar bear standing calmly in a white Ferris wheel gondola beneath a vivid blue sky](../examples/toy-lens/polar-bear-ferris-wheel.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |

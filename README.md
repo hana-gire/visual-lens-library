@@ -93,9 +93,12 @@ visual-lens-library/
 │   │   ├── snail-on-leaf.jpeg
 │   │   ├── white-seashell-sand.jpeg
 │   │   └── white-wagtail-blue-flowers.jpeg
-│   └── summer-depths-lens/
-│       ├── crow-foraging-refuse.jpeg
-│       └── raccoon-looking-back-undergrowth.jpeg
+│   ├── summer-depths-lens/
+│   │   ├── crow-foraging-refuse.jpeg
+│   │   └── raccoon-looking-back-undergrowth.jpeg
+│   └── toy-lens/
+│       ├── carousel-horse.jpeg
+│       └── polar-bear-ferris-wheel.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
