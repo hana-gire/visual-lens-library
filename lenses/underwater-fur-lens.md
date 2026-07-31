@@ -16,6 +16,20 @@ A photographic style preset for fur-bearing animals photographed entirely
 underwater: cold blue-green depth, shattered surface light, waterlogged fur,
 suspended matter, and the coarse optical softness of old 35mm film.
 
+## Example images / 作例
+
+| English Golden Retriever swimming among fish / 魚と泳ぐイングリッシュゴールデンレトリバー | English Golden Retriever approaching a submerged statue / 水中の彫像に近づくイングリッシュゴールデンレトリバー |
+| --- | --- |
+| ![An English Golden Retriever swimming underwater among fish beneath broken surface light](../examples/underwater-fur-lens/english-golden-retriever-fish.jpeg) | ![An English Golden Retriever approaching a submerged human statue in deep blue-green water](../examples/underwater-fur-lens/english-golden-retriever-statue.jpeg) |
+
+### More examples / その他の作例
+
+| Borzoi swimming toward the surface / 水面へ泳ぐボルゾイ | Border Collie diving underwater / 水中へ潜るボーダーコリー | English Golden Retriever underwater close-up / 水中のイングリッシュゴールデンレトリバーの接写 |
+| --- | --- | --- |
+| ![A Borzoi swimming upward toward the bright water surface](../examples/underwater-fur-lens/borzoi-surface.jpeg) | ![A black-and-white Border Collie diving downward through deep blue water](../examples/underwater-fur-lens/border-collie-dive.jpeg) | ![A close-up of an English Golden Retriever swimming underwater with wet fur drifting around its face](../examples/underwater-fur-lens/english-golden-retriever-close-up.jpeg) |
+| English Golden Retriever swimming toward the camera / カメラへ泳ぐイングリッシュゴールデンレトリバー | English Golden Retriever turning toward the surface / 水面へ身をひねるイングリッシュゴールデンレトリバー | English Golden Retriever swimming sideways / 横向きに泳ぐイングリッシュゴールデンレトリバー |
+| ![An English Golden Retriever swimming toward the camera beneath a trail of bubbles](../examples/underwater-fur-lens/english-golden-retriever-camera.jpeg) | ![An English Golden Retriever twisting upward toward the water surface](../examples/underwater-fur-lens/english-golden-retriever-turning.jpeg) | ![An English Golden Retriever swimming sideways through deep blue-green water](../examples/underwater-fur-lens/english-golden-retriever-sideways.jpeg) |
+
 ## Replaceable fields
 
 | Field | Description |
@@ -97,4 +111,3 @@ Avoid:
 
 Licensed under [CC BY 4.0](../LICENSE.md). Copying, adaptation, and commercial
 use are permitted with attribution.
-

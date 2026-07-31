@@ -96,9 +96,18 @@ visual-lens-library/
 │   ├── summer-depths-lens/
 │   │   ├── crow-foraging-refuse.jpeg
 │   │   └── raccoon-looking-back-undergrowth.jpeg
-│   └── toy-lens/
-│       ├── carousel-horse.jpeg
-│       └── polar-bear-ferris-wheel.jpeg
+│   ├── toy-lens/
+│   │   ├── carousel-horse.jpeg
+│   │   └── polar-bear-ferris-wheel.jpeg
+│   └── underwater-fur-lens/
+│       ├── border-collie-dive.jpeg
+│       ├── borzoi-surface.jpeg
+│       ├── english-golden-retriever-camera.jpeg
+│       ├── english-golden-retriever-close-up.jpeg
+│       ├── english-golden-retriever-fish.jpeg
+│       ├── english-golden-retriever-sideways.jpeg
+│       ├── english-golden-retriever-statue.jpeg
+│       └── english-golden-retriever-turning.jpeg
 └── lenses/
     ├── underwater-fur-lens.md
     ├── hazy-spring-lens.md
